@@ -1,0 +1,32 @@
+{
+  "format_version": "1.8.0",
+    "minecraft:spawn_rules": {
+      "description": {
+        "identifier": "opw:water_monster",
+        "population_control": "monster"
+      },
+      "conditions": [
+        {
+            "minecraft:spawns_on_surface": {},
+            "minecraft:spawns_underwater": {},
+    
+            "minecraft:brightness_filter": {
+                "min": 0,
+                "max": 15,
+                "adjust_for_weather": true
+            },
+    
+            "minecraft:weight": {
+                "default": 30
+            },
+            "minecraft:herd":{
+                "min_size": 4,
+                "max_size": 12
+            },
+            "minecraft:density_limit": {
+                "surface": 12
+            }
+        }
+      ]
+    }
+}

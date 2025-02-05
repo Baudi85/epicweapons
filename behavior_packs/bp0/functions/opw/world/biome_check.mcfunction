@@ -1,0 +1,9 @@
+execute @s ~ ~ ~ detect ~ -64 ~ bedrock -1 scoreboard players set @s biome -1
+execute @s ~ ~ ~ detect ~ -64 ~ opw:town -1 scoreboard players set @s biome 0
+execute @s ~ ~ ~ detect ~ -64 ~ opw:meadow -1 scoreboard players set @s biome 1
+execute @s ~ ~ ~ detect ~ -64 ~ opw:lake -1 scoreboard players set @s biome 2
+execute @s ~ ~ ~ detect ~ -64 ~ opw:forest -1 scoreboard players set @s biome 3
+execute @s ~ ~ ~ detect ~ -64 ~ opw:thawing -1 scoreboard players set @s biome 4
+execute @s ~ ~ ~ detect ~ -64 ~ opw:swamp -1 scoreboard players set @s biome 5
+execute @s ~ ~ ~ detect ~ -64 ~ opw:gorge -1 scoreboard players set @s biome 6
+execute @s ~ ~ ~ detect ~ -64 ~ opw:ruins -1 scoreboard players set @s biome 7

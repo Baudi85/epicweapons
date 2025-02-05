@@ -1,0 +1,170 @@
+{
+    "format_version": "1.16.0",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.op.l_staff",
+                "texture_width": 64,
+                "texture_height": 64,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 4.5,
+                "visible_bounds_offset": [
+                    0,
+                    1.75,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "main",
+                    "pivot": [
+                        0.5,
+                        -4,
+                        -0.5
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -0.5,
+                                0,
+                                -0.5
+                            ],
+                            "size": [
+                                1,
+                                31,
+                                1
+                            ],
+                            "uv": [
+                                4,
+                                15
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -0.5,
+                                0,
+                                -0.5
+                            ],
+                            "size": [
+                                1,
+                                28,
+                                1
+                            ],
+                            "inflate": 0.25,
+                            "uv": [
+                                0,
+                                15
+                            ]
+                        }
+                    ],
+                    "binding": "q.item_slot_to_bone_name(c.item_slot)"
+                },
+                {
+                    "name": "octagon",
+                    "parent": "main",
+                    "pivot": [
+                        0,
+                        35,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -1.5,
+                                29.5,
+                                -1
+                            ],
+                            "size": [
+                                3,
+                                3,
+                                2
+                            ],
+                            "inflate": -0.25,
+                            "uv": [
+                                37,
+                                1
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -6,
+                                29,
+                                0
+                            ],
+                            "size": [
+                                12,
+                                15,
+                                0
+                            ],
+                            "uv": [
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                27.8,
+                                -0.5
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                1
+                            ],
+                            "inflate": 0.1,
+                            "uv": [
+                                19,
+                                16
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -1.5,
+                                26.8,
+                                -1
+                            ],
+                            "size": [
+                                3,
+                                2,
+                                2
+                            ],
+                            "inflate": -0.25,
+                            "uv": [
+                                38,
+                                14
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "floating_ball2",
+                    "parent": "octagon",
+                    "pivot": [
+                        0,
+                        35,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -1.5,
+                                34.75,
+                                -1
+                            ],
+                            "size": [
+                                3,
+                                3,
+                                2
+                            ],
+                            "uv": [
+                                8,
+                                15
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

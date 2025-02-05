@@ -1,0 +1,272 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.opw.inventory.ce_wand",
+                "texture_width": 64,
+                "texture_height": 64,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 5.5,
+                "visible_bounds_offset": [
+                    0,
+                    2.25,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "main_19",
+                    "pivot": [
+                        0,
+                        4.5,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -1,
+                                17,
+                                -1
+                            ],
+                            "size": [
+                                2,
+                                15,
+                                2
+                            ],
+                            "uv": [
+                                24,
+                                0
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                31.75,
+                                -1
+                            ],
+                            "size": [
+                                2,
+                                18,
+                                2
+                            ],
+                            "inflate": -0.25,
+                            "uv": [
+                                8,
+                                12
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -6,
+                                45.5,
+                                0
+                            ],
+                            "size": [
+                                12,
+                                12,
+                                0
+                            ],
+                            "uv": [
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                4.75,
+                                -1
+                            ],
+                            "size": [
+                                2,
+                                12,
+                                2
+                            ],
+                            "inflate": 0.25,
+                            "uv": [
+                                16,
+                                29
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                31.75,
+                                -1
+                            ],
+                            "size": [
+                                2,
+                                18,
+                                2
+                            ],
+                            "inflate": -0.1,
+                            "uv": [
+                                0,
+                                12
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                4.75,
+                                -1
+                            ],
+                            "size": [
+                                2,
+                                12,
+                                2
+                            ],
+                            "inflate": 0.4,
+                            "uv": [
+                                24,
+                                17
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                17,
+                                -1
+                            ],
+                            "size": [
+                                2,
+                                15,
+                                2
+                            ],
+                            "inflate": 0.15,
+                            "uv": [
+                                16,
+                                12
+                            ]
+                        }
+                    ],
+                    "binding": "q.item_slot_to_bone_name(c.item_slot)"
+                },
+                {
+                    "name": "stone",
+                    "parent": "main_19",
+                    "pivot": [
+                        0.75,
+                        5,
+                        -1
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -1.75,
+                                2.5,
+                                0
+                            ],
+                            "size": [
+                                2,
+                                3,
+                                2
+                            ],
+                            "pivot": [
+                                -0.75,
+                                5,
+                                1
+                            ],
+                            "rotation": [
+                                0,
+                                15,
+                                5
+                            ],
+                            "uv": [
+                                32,
+                                0
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -1.5,
+                                1.75,
+                                -1.5
+                            ],
+                            "size": [
+                                3,
+                                3,
+                                3
+                            ],
+                            "inflate": -0.1,
+                            "uv": [
+                                29,
+                                28
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -1.5,
+                                0.5,
+                                -1
+                            ],
+                            "size": [
+                                2,
+                                3,
+                                2
+                            ],
+                            "pivot": [
+                                -0.5,
+                                5,
+                                0
+                            ],
+                            "rotation": [
+                                0,
+                                0,
+                                5
+                            ],
+                            "uv": [
+                                0,
+                                32
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -0.5,
+                                -0.05,
+                                -1.5
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                2
+                            ],
+                            "inflate": -0.1,
+                            "uv": [
+                                30,
+                                15
+                            ]
+                        },
+                        {
+                            "origin": [
+                                -0.25,
+                                3.5,
+                                -2
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                2
+                            ],
+                            "pivot": [
+                                0.75,
+                                5,
+                                -1
+                            ],
+                            "rotation": [
+                                -11.89031,
+                                -23.67307,
+                                0
+                            ],
+                            "uv": [
+                                32,
+                                5
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

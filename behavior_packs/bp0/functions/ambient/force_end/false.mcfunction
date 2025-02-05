@@ -1,0 +1,1 @@
+tag @s remove sound_force_end.ambient

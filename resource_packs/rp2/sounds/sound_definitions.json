@@ -1,0 +1,7258 @@
+{
+	"music.exploration1": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/exploration1",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.exploration2": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/exploration2",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.exploration3": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/exploration3",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.exploration4": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/exploration4",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.thawing.intro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/thawing_intro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.thawing.loop": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/thawing_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.thawing.outro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/thawing_outro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.ruins.intro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/ruins_intro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.ruins.loop": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/ruins_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.ruins.outro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/ruins_outro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.quarry.intro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/quarry_intro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.quarry.loop": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/quarry_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.quarry.outro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/quarry_outro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.town.intro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/town_intro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.town.loop": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/town_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.town.outro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/town_outro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.meadows.intro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/meadows_intro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.meadows.loop": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/meadows_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.meadows.outro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/meadows_outro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.marshes.intro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/marshes_intro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.marshes.loop": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/marshes_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.marshes.outro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/marshes_outro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.lake.intro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/lake_intro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.lake.loop": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/lake_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.lake.outro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/lake_outro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.dungeons.intro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/dungeons_intro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.dungeons.loop": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/dungeons_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.dungeons.outro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/dungeons_outro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.boreal.intro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/boreal_intro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.boreal.loop": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/boreal_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"music.boreal.outro": {
+	  "category": "music",
+	  "sounds": [{
+		  "name": "sounds/music/boreal_outro",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"collapse": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/custom/collapse",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"fog": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/custom/fog",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon_pickup": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/custom/weapon_pickup",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo11": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo11",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo10": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo10",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo9": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo9",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo8": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo8",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo7": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo7",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo6": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo6",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo5": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo5",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo4": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo4",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo3": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo3",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo2": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo2",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.munin.vo1": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/munin/vo1",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.weaponsmith.vo24": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo24",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.weaponsmith.vo23": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo23",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.weaponsmith.vo22": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo22",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.weaponsmith.vo21": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo21",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo20": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo20",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo19": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo19",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo18": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo18",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo17": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo17",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo16": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo16",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo15": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo15",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo14": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo14",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo13": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo13",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo12": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo12",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo11": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo11",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo10": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo10",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo9": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo9",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo8": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo8",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo7": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo7",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo6": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo6",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo5": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo5",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo4": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo4",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo3": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo3",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo2": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo2",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.weaponsmith.vo1": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/weaponsmith/vo1",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo24": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo24",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.miner.vo23": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo23",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.miner.vo22": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo22",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.miner.vo21": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo21",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo20": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo20",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo19": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo19",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo18": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo18",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo17": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo17",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo16": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo16",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo15": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo15",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo14": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo14",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo13": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo13",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo12": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo12",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo11": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo11",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo10": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo10",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo9": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo9",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo8": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo8",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo7": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo7",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo6": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo6",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo5": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo5",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo4": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo4",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo3": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo3",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo2": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo2",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.miner.vo1": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/miner/vo1",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo24": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo24",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.farmer.vo23": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo23",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.farmer.vo22": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo22",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.farmer.vo21": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo21",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo20": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo20",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo19": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo19",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo18": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo18",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo17": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo17",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo16": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo16",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo15": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo15",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo14": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo14",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo13": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo13",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo12": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo12",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo11": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo11",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo10": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo10",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo9": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo9",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo8": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo8",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo7": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo7",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo6": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo6",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo5": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo5",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo4": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo4",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo3": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo3",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo2": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo2",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.farmer.vo1": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/farmer/vo1",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo24": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo24",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.baker.vo23": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo23",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.baker.vo22": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo22",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.baker.vo21": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo21",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo20": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo20",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo19": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo19",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo18": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo18",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo17": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo17",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo16": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo16",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo15": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo15",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo14": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo14",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo13": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo13",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo12": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo12",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo11": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo11",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo10": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo10",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo9": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo9",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo8": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo8",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo7": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo7",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo6": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo6",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo5": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo5",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo4": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo4",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo3": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo3",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo2": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo2",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.baker.vo1": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/baker/vo1",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo24": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo24",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.armorsmith.vo23": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo23",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.armorsmith.vo22": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo22",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"vo.armorsmith.vo21": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo21",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo20": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo20",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo19": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo19",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo18": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo18",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo17": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo17",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo16": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo16",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo15": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo15",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo14": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo14",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo13": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo13",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo12": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo12",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo11": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo11",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo10": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo10",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo9": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo9",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo8": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo8",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo7": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo7",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo6": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo6",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo5": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo5",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo4": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo4",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo3": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo3",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo2": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo2",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"vo.armorsmith.vo1": {
+	  "category": "master",
+	  "sounds": [{
+		  "name": "sounds/vo/armorsmith/vo1",
+		  "stream": true,
+		  "volume": 1.7
+	  }]
+	},
+	"mob.mermaid.basic_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/mermaid/basic_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/basic_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/basic_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.mermaid.interesting_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/mermaid/interesting_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/interesting_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/interesting_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.mermaid.complex_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/mermaid/complex_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/complex_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/complex_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.mermaid.death": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/mermaid/death1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/death2",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.mermaid.idle": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/mermaid/idle1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/idle2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/idle3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/idle4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/idle5",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.mermaid.swim": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/mermaid/swim1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/swim2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/swim3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/swim4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/swim5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/swim6",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.mermaid.step": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/mermaid/step1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/step2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/step3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/step4",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.mermaid.hurt": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/mermaid/hurt1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/hurt2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/hurt3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/hurt4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/hurt5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/mermaid/hurt6",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.fiery_raven.basic_attack": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/fiery_raven/basic_attack",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.fiery_raven.interesting_attack": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/fiery_raven/interesting_attack",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.fiery_raven.complex_attack": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/fiery_raven/complex_attack",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.fiery_raven.death": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/fiery_raven/death",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.fiery_raven.idle": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/fiery_raven/idle1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/idle2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/idle3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/idle4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/idle5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/idle6",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.fiery_raven.fly": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/fiery_raven/fly1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/fly2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/fly3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/fly4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/fly5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/fly6",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/fly7",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/fly8",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.fiery_raven.hurt": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/fiery_raven/hurt1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/hurt2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/hurt3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/hurt4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fiery_raven/hurt5",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.troll.basic_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/troll/basic_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/basic_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/basic_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.troll.interesting_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/troll/interesting_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/interesting_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/interesting_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.troll.complex_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/troll/complex_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/complex_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/complex_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.troll.death": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/troll/death1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/death2",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.troll.idle": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/troll/idle1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/idle2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/idle3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/idle4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/idle5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/idle6",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/idle7",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/idle8",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.troll.step": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/troll/step1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/step2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/step3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/step4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/step5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/step6",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.troll.hurt": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/troll/hurt1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/hurt2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/hurt3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/hurt4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/hurt5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/hurt6",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/hurt7",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/hurt8",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/troll/hurt9",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.fae.basic_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/fae/basic_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/basic_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/basic_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.fae.interesting_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/fae/interesting_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/interesting_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/interesting_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.fae.complex_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/fae/complex_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/complex_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/complex_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.fae.death": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/fae/death1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/death2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/death3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.fae.idle": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/fae/idle1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/idle2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/idle3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/idle4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/idle5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/idle6",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/idle7",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/idle8",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.fae.fly": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/fae/fly1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/fly2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/fly3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/fly4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/fly5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/fly6",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/fly7",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.fae.hurt": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/fae/hurt1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/hurt2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/hurt3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/hurt4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/hurt5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/fae/hurt6",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.bog_walker.basic_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/bog_walker/basic_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/basic_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/basic_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.bog_walker.interesting_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/bog_walker/interesting_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/interesting_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/interesting_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.bog_walker.complex_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/bog_walker/complex_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/complex_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/complex_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.bog_walker.death": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/bog_walker/death",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.bog_walker.idle": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/bog_walker/idle1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/idle2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/idle3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/idle4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/idle5",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.bog_walker.step": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/bog_walker/step1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/step2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/step3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/step4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/step5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/step6",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.bog_walker.hurt": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/bog_walker/hurt1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/hurt2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/hurt3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/hurt4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/hurt5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/hurt6",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/hurt7",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/bog_walker/hurt8",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.reptile.basic_attack": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/reptile/basic_attack1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/basic_attack2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/basic_attack3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.reptile.interesting_attack": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/reptile/interesting_attack",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.reptile.complex_attack": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/reptile/complex_attack",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.reptile.death": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/reptile/death",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.reptile.idle": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/reptile/idle1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/idle2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/idle3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.reptile.step": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/reptile/step1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/step2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/step3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/step4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/step5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/step6",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.reptile.hurt": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/reptile/hurt1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/hurt2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/reptile/hurt3",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.stone_golem.basic_attack": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/stone_golem/basic_attack",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.stone_golem.interesting_attack": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/stone_golem/interesting_attack",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.stone_golem.complex_attack": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/stone_golem/complex_attack",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.stone_golem.death": {
+	  "category": "hostile",
+	  "sounds": [{
+		  "name": "sounds/mob/stone_golem/death",
+		  "stream": false,
+		  "volume": 2.0
+	  }]
+	},
+	"mob.stone_golem.idle": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/stone_golem/idle1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/idle2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/idle3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/idle4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/idle5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/idle6",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.stone_golem.step": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/stone_golem/step1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/step2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/step3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/step4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/step5",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/step6",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"mob.stone_golem.hurt": {
+	  "category": "hostile",
+	  "sounds": [
+		{
+		  "name": "sounds/mob/stone_golem/hurt1",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/hurt2",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/hurt3",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/hurt4",
+		  "stream": false,
+		  "volume": 2.0
+	  },
+		{
+		  "name": "sounds/mob/stone_golem/hurt5",
+		  "stream": false,
+		  "volume": 2.0
+	  }
+		]
+	},
+	"ambience.boreal_forest": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/ambience/boreal_forest",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"ambience.lake": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/ambience/lake",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"ambience.marsh": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/ambience/marsh",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"ambience.meadows": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/ambience/meadows",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"ambience.quarry": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/ambience/quarry",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"ambience.ruined_city": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/ambience/ruined_city",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"ambience.thawing_forest": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/ambience/thawing_forest",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"magical_inventory.close": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/magical_inventory/close",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"magical_inventory.open": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/magical_inventory/open",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"magical_inventory.cycle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/magical_inventory/cycle1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/magical_inventory/cycle2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/magical_inventory/cycle3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.all_upgraded": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/all_upgraded",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.all_found": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/all_found",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.upgrade.apocalyptic": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/upgrade_apocalyptic",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.upgrade.titanic": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/upgrade_titanic",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.failure": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/failure1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/failure2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/failure3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.celestial_galaxy.apocalyptic.explosion": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/apocalyptic/explosion1",
+		  "stream": false,
+		  "volume": 1.5
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/apocalyptic/explosion2",
+		  "stream": false,
+		  "volume": 1.5
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/apocalyptic/explosion3",
+		  "stream": false,
+		  "volume": 1.5
+	  }
+	  ]
+	},
+	"weapon.celestial_galaxy.apocalyptic.falling": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/apocalyptic/falling1",
+		  "stream": false,
+		  "volume": 1.5
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/apocalyptic/falling2",
+		  "stream": false,
+		  "volume": 1.5
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/apocalyptic/falling3",
+		  "stream": false,
+		  "volume": 1.5
+	  }
+	  ]
+	},
+	"weapon.celestial_galaxy.apocalyptic.portal": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/apocalyptic/portal1",
+		  "stream": true,
+		  "volume": 1.7
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/apocalyptic/portal2",
+		  "stream": true,
+		  "volume": 1.7
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/apocalyptic/portal3",
+		  "stream": true,
+		  "volume": 1.7
+	  }
+	  ]
+	},
+	"weapon.celestial_galaxy.titanic.explosion": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/titanic/explosion1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/titanic/explosion2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/titanic/explosion3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.celestial_galaxy.titanic.falling": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/titanic/falling1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/titanic/falling2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/titanic/falling3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.celestial_galaxy.titanic.portal": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/titanic/portal1",
+		  "stream": true,
+		  "volume": 1.7
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/titanic/portal2",
+		  "stream": true,
+		  "volume": 1.7
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/titanic/portal3",
+		  "stream": true,
+		  "volume": 1.7
+	  }
+	  ]
+	},
+	"weapon.celestial_galaxy.destructive.portal": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/destructive/portal1",
+		  "stream": true,
+		  "volume": 1.7
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/destructive/portal2",
+		  "stream": true,
+		  "volume": 1.7
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/destructive/portal3",
+		  "stream": true,
+		  "volume": 1.7
+	  }
+	  ]
+	},
+	"weapon.celestial_galaxy.destructive.falling": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/destructive/falling1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/destructive/falling2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/destructive/falling3",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_galaxy/destructive/falling4",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_galaxy/destructive/falling5",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.celestial_galaxy.destructive.explosion": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/destructive/explosion1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/destructive/explosion2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_galaxy/destructive/explosion3",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_galaxy/destructive/explosion4",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.celestial_galaxy.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/celestial_galaxy/idle_d",
+		  "stream": true,
+		  "volume": 1.2
+	  }]
+	},
+	"weapon.celestial_galaxy.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/celestial_galaxy/idle_t",
+		  "stream": true,
+		  "volume": 1.2
+	  }]
+	},
+	"weapon.celestial_galaxy.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/celestial_galaxy/idle_a",
+		  "stream": true,
+		  "volume": 1.2
+	  }]
+	},
+	"weapon.celestial_galaxy.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/celestial_galaxy/idle_a",
+		  "stream": true,
+		  "volume": 1.2
+	  }]
+	},
+	"celestial_wand.apocalyptic.shoot": {
+	  "category": "ui",
+		"max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/celestial_wand/apocalyptic/shoot",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"celestial_wand.apocalyptic.planet": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/apocalyptic/planet1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/apocalyptic/planet2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/apocalyptic/planet3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"celestial_wand.apocalyptic.star": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/apocalyptic/star1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/apocalyptic/star2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/apocalyptic/star3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"celestial_wand.titanic.tornado": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/titanic/tornado1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/titanic/tornado2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/titanic/tornado3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"celestial_wand.titanic.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/titanic/shoot1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/titanic/shoot2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/titanic/shoot3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"celestial_wand.titanic.explode": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/titanic/explode1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/titanic/explode2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/titanic/explode3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"celestial_wand.destructive.star": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/destructive/star1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/destructive/star2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/destructive/star3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"celestial_wand.destructive.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/destructive/shoot1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/destructive/shoot2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/destructive/shoot3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"celestial_wand.destructive.explosion": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/destructive/explosion1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/destructive/explosion2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/celestial_wand/destructive/explosion3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.celestial_wand.destructive.idle": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_d1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_d2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_d3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.celestial_wand.titanic.idle": {
+	  "category": "master",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_t1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_t2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_t3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.celestial_wand.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_a1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_a2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_a3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.celestial_wand.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_a1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_a2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/celestial_wand/idle_a3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"chaotic_hammer.destructive": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/chaotic_hammer/destructive",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"chaotic_hammer.titanic": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/chaotic_hammer/titanic",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"chaotic_hammer.apocalyptic": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/chaotic_hammer/apocalyptic",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"chaotic_hammer.decay": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/decay1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/decay2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/decay3",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/chaotic_hammer/decay4",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/chaotic_hammer/decay5",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/chaotic_hammer/decay6",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/chaotic_hammer/decay7",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"chaotic_hammer.quake": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/quake1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/quake2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/quake3",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/chaotic_hammer/quake4",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/chaotic_hammer/quake5",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/chaotic_hammer/quake6",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.chaotic_hammer.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_d1",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_d2",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_d3",
+		  "stream": false,
+		  "volume": 0.7
+	  }
+	  ]
+	},
+	"weapon.chaotic_hammer.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_t1",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_t2",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_t3",
+		  "stream": false,
+		  "volume": 0.7
+	  }
+	  ]
+	},
+	"weapon.chaotic_hammer.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_a1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_a2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_a3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.chaotic_hammer.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_a1",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_a2",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/chaotic_hammer/idle_a3",
+		  "stream": false,
+		  "volume": 0.7
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.attack_apocolyptic": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/attack_apocolyptic1",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/attack_apocolyptic2",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/attack_apocolyptic3",
+		  "stream": false,
+		  "volume": 1.3
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.attack_titanic": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/attack_titanic1",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/attack_titanic2",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/attack_titanic3",
+		  "stream": false,
+		  "volume": 1.3
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.attack_destructive": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/attack_destructive1",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/attack_destructive2",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/attack_destructive3",
+		  "stream": false,
+		  "volume": 1.3
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_d1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_d2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_d3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_t1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_t2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_t3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_a1",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_a2",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_a3",
+		  "stream": false,
+		  "volume": 0.5
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_a1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_a2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/idle_a3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.titanic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/titanic/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/titanic/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/titanic/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.titanic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/titanic/main1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/titanic/main2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/titanic/main3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.titanic.intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/titanic/intro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/titanic/intro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/titanic/intro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.destructive.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/destructive/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/destructive/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/destructive/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.destructive.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/destructive/main1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/destructive/main2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/destructive/main3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.destructive.intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/destructive/intro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/destructive/intro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/destructive/intro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.apocolyptic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/apocolyptic/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/apocolyptic/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/apocolyptic/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.apocolyptic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/apocolyptic/main1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/apocolyptic/main2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/apocolyptic/main3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_axe.apocolyptic.intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_axe/apocolyptic/intro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/apocolyptic/intro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_axe/apocolyptic/intro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.titanic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/titanic/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/titanic/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/titanic/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.titanic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/titanic/main1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/titanic/main2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/titanic/main3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.titanic.intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/titanic/intro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/titanic/intro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/titanic/intro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.destructive.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/destructive/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/destructive/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/destructive/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.destructive.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/destructive/main1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/destructive/main2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/destructive/main3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.destructive.intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/destructive/intro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/destructive/intro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/destructive/intro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.apocolyptic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/apocolyptic/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/apocolyptic/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/apocolyptic/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.apocolyptic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/apocolyptic/main1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/apocolyptic/main2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/apocolyptic/main3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.apocolyptic.intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/apocolyptic/intro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/apocolyptic/intro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/apocolyptic/intro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_d1",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_d2",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_d3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_t1",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_t2",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_t3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_a1",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_a2",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_a3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+	  ]
+	},
+	"weapon.demonic_hand.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_a1",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_a2",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/demonic_hand/idle_a3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+	  ]
+	},
+	"dk_ghostly_knights.ghost.knight": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/ghost/knight1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/ghost/knight2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/ghost/knight3",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/dk_ghostly_knights/ghost/knight4",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"dk_ghostly_knights.ghost.horseman": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/ghost/horseman1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/ghost/horseman2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/ghost/horseman3",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/dk_ghostly_knights/ghost/horseman4",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"dk_ghostly_knights.apocalyptic.souls": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/apocalyptic/souls1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/apocalyptic/souls2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/apocalyptic/souls3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"dk_ghostly_knights.apocalyptic.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/apocalyptic/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/apocalyptic/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/apocalyptic/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"dk_ghostly_knights.titanic.souls": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/titanic/souls1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/titanic/souls2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/titanic/souls3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"dk_ghostly_knights.titanic.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/titanic/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/titanic/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/titanic/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"dk_ghostly_knights.destructive.souls": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/destructive/souls1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/destructive/souls2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/destructive/souls3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"dk_ghostly_knights.destructive.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/destructive/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/destructive/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/destructive/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.dk_ghostly_knights.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_d1",
+		  "stream": false,
+		  "volume": 0.4
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_d2",
+		  "stream": false,
+		  "volume": 0.4
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_d3",
+		  "stream": false,
+		  "volume": 0.4
+	  }
+	  ]
+	},
+	"weapon.dk_ghostly_knights.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_t1",
+		  "stream": false,
+		  "volume": 0.4
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_t2",
+		  "stream": false,
+		  "volume": 0.4
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_t3",
+		  "stream": false,
+		  "volume": 0.4
+	  }
+	  ]
+	},
+	"weapon.dk_ghostly_knights.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_a1",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_a2",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_a3",
+		  "stream": false,
+		  "volume": 0.5
+	  }
+	  ]
+	},
+	"weapon.dk_ghostly_knights.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_a1",
+		  "stream": false,
+		  "volume": 0.4
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_a2",
+		  "stream": false,
+		  "volume": 0.4
+	  },
+	  {
+		  "name": "sounds/weapons/dk_ghostly_knights/idle_a3",
+		  "stream": false,
+		  "volume": 0.4
+	  }
+	  ]
+	},
+	"weapon.dk_lance.titanic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/titanic/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/titanic/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/titanic/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.dk_lance.titanic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/titanic/main1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/titanic/main2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/titanic/main3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.dk_lance.destructive.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/destructive/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/destructive/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/destructive/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.dk_lance.destructive.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/destructive/main1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/destructive/main2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/destructive/main3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.dk_lance.apocolyptic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/apocolyptic/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/apocolyptic/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/apocolyptic/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.dk_lance.apocolyptic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/apocolyptic/main1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/apocolyptic/main2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/apocolyptic/main3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.dk_lance.intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/intro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/intro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/intro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.dk_lance.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_d1",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_d2",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_d3",
+		  "stream": false,
+		  "volume": 0.5
+	  }
+	  ]
+	},
+	"weapon.dk_lance.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_t1",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_t2",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_t3",
+		  "stream": false,
+		  "volume": 0.5
+	  }
+	  ]
+	},
+	"weapon.dk_lance.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_a1",
+		  "stream": false,
+		  "volume": 0.4
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_a2",
+		  "stream": false,
+		  "volume": 0.4
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_a3",
+		  "stream": false,
+		  "volume": 0.4
+	  }
+	  ]
+	},
+	"weapon.dk_lance.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_a1",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_a2",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/dk_lance/idle_a3",
+		  "stream": false,
+		  "volume": 0.5
+	  }
+	  ]
+	},
+	"frost_crystal.apocalyptic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/frost_crystal/apocalyptic/impact",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"frost_crystal.apocalyptic.fall": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/frost_crystal/apocalyptic/fall1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/apocalyptic/fall2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/apocalyptic/fall3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"frost_crystal.apocalyptic.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/frost_crystal/apocalyptic/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/apocalyptic/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/apocalyptic/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"frost_crystal.titanic.crystal": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/frost_crystal/titanic/crystal1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/titanic/crystal2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/titanic/crystal3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"frost_crystal.titanic.idle": {
+	  "category": "master",
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/frost_crystal/titanic/idle1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/titanic/idle2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/titanic/idle3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"frost_crystal.titanic.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/frost_crystal/titanic/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/titanic/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/titanic/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"frost_crystal.destructive.ice": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/frost_crystal/destructive/ice1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/destructive/ice2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/destructive/ice3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"frost_crystal.destructive.idle": {
+	  "category": "master",
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/frost_crystal/destructive/idle1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/destructive/idle2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/destructive/idle3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"frost_crystal.destructive.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/frost_crystal/destructive/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/destructive/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/frost_crystal/destructive/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"weapon.frost_crystal.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/frost_crystal/idle_d",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.frost_crystal.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/frost_crystal/idle_t",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.frost_crystal.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/frost_crystal/idle_a",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.frost_crystal.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/frost_crystal/idle_a",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"frost_daggers.apocalyptic.swing": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/apocalyptic/swing1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/apocalyptic/swing2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/apocalyptic/swing3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"frost_daggers.apocalyptic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/apocalyptic/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/apocalyptic/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/apocalyptic/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"frost_daggers.apocalyptic.falloff": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/apocalyptic/falloff1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/apocalyptic/falloff2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/apocalyptic/falloff3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"frost_daggers.titanic.swing": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/titanic/swing1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/titanic/swing2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/titanic/swing3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"frost_daggers.titanic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/titanic/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/titanic/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/titanic/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"frost_daggers.titanic.falloff": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/titanic/falloff1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/titanic/falloff2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/titanic/falloff3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"frost_daggers.destructive.swing": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/destructive/swing1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/destructive/swing2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/destructive/swing3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"frost_daggers.destructive.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/destructive/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/destructive/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/destructive/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"frost_daggers.destructive.falloff": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/destructive/falloff1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/destructive/falloff2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/destructive/falloff3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.frost_daggers.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_d1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_d2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_d3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.frost_daggers.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_t1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_t2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_t3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.frost_daggers.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_a1",
+		  "stream": false,
+		  "volume": 0.9
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_a2",
+		  "stream": false,
+		  "volume": 0.9
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_a3",
+		  "stream": false,
+		  "volume": 0.9
+	  }
+	  ]
+	},
+	"weapon.frost_daggers.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_a1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_a2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/frost_daggers/idle_a3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"lantern_of_souls.apocalyptic": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/apocalyptic/apocalyptic1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/apocalyptic/apocalyptic2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/apocalyptic/apocalyptic3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"lantern_of_souls.titanic": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/titanic/titanic1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/titanic/titanic2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/titanic/titanic3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"lantern_of_souls.destructive": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/destructive/destructive1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/destructive/destructive2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/destructive/destructive3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.lantern_of_souls.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_d1",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_d2",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_d3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+	  ]
+	},
+	"weapon.lantern_of_souls.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_t1",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_t2",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_t3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+	  ]
+	},
+	"weapon.lantern_of_souls.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_a1",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_a2",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_a3",
+		  "stream": false,
+		  "volume": 0.7
+	  }
+	  ]
+	},
+	"weapon.lantern_of_souls.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_a1",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_a2",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/lantern_of_souls/idle_a3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+	  ]
+	},
+	"lightning_blades.apocalyptic.fallout": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/lightning_blades/apocalyptic/fallout",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"lightning_blades.apocalyptic.strike": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lightning_blades/apocalyptic/strike1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/apocalyptic/strike2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/apocalyptic/strike3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"lightning_blades.apocalyptic.charge": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lightning_blades/apocalyptic/charge1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/apocalyptic/charge2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/apocalyptic/charge3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"lightning_blades.titanic.fallout": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/lightning_blades/titanic/fallout",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"lightning_blades.titanic.strike": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lightning_blades/titanic/strike1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/titanic/strike2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/titanic/strike3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"lightning_blades.titanic.charge": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lightning_blades/titanic/charge1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/titanic/charge2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/titanic/charge3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"lightning_blades.destructive.fallout": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/lightning_blades/destructive/fallout",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"lightning_blades.destructive.strike": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lightning_blades/destructive/strike1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/destructive/strike2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/destructive/strike3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"lightning_blades.destructive.charge": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lightning_blades/destructive/charge1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/destructive/charge2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/destructive/charge3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.lightning_blades.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_d1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_d2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_d3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.lightning_blades.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_t1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_t2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_t3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.lightning_blades.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_a1",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_a2",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_a3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+	  ]
+	},
+	"weapon.lightning_blades.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_a1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_a2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/lightning_blades/idle_a3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"lightning_staff.apocalyptic.thunder": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/lightning_staff/apocalyptic/thunder",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"lightning_staff.apocalyptic.summon": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/lightning_staff/apocalyptic/summon1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/apocalyptic/summon2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/apocalyptic/summon3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"lightning_staff.apocalyptic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/lightning_staff/apocalyptic/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/apocalyptic/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/apocalyptic/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"lightning_staff.titanic.thunder": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/lightning_staff/titanic/thunder",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"lightning_staff.titanic.summon": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/lightning_staff/titanic/summon1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/titanic/summon2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/titanic/summon3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"lightning_staff.titanic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/lightning_staff/titanic/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/titanic/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/titanic/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"lightning_staff.destructive.thunder": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/lightning_staff/destructive/thunder",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"lightning_staff.destructive.summon": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/lightning_staff/destructive/summon1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/destructive/summon2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/destructive/summon3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"lightning_staff.destructive.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/lightning_staff/destructive/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/destructive/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/lightning_staff/destructive/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"weapon.lightning_staff.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/lightning_staff/idle_d",
+		  "stream": true,
+		  "volume": 0.7
+	  }]
+	},
+	"weapon.lightning_staff.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/lightning_staff/idle_t",
+		  "stream": true,
+		  "volume": 0.7
+	  }]
+	},
+	"weapon.lightning_staff.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/lightning_staff/idle_a",
+		  "stream": true,
+		  "volume": 0.7
+	  }]
+	},
+	"weapon.lightning_staff.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/lightning_staff/idle_a",
+		  "stream": true,
+		  "volume": 0.7
+	  }]
+	},
+	"nature_staff.apocalyptic.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/nature_staff/apocalyptic/shoot1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/apocalyptic/shoot2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/apocalyptic/shoot3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"nature_staff.apocalyptic.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/nature_staff/apocalyptic/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/apocalyptic/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/apocalyptic/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"nature_staff.apocalyptic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/nature_staff/apocalyptic/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/apocalyptic/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/apocalyptic/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"nature_staff.titanic.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/nature_staff/titanic/shoot1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/titanic/shoot2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/titanic/shoot3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"nature_staff.titanic.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/nature_staff/titanic/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/titanic/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/titanic/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"nature_staff.titanic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/nature_staff/titanic/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/titanic/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/titanic/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"nature_staff.destructive.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/nature_staff/destructive/shoot1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/destructive/shoot2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/destructive/shoot3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"nature_staff.destructive.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/nature_staff/destructive/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/destructive/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/destructive/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"nature_staff.destructive.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/nature_staff/destructive/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/destructive/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/nature_staff/destructive/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"weapon.nature_staff.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/nature_staff/idle_d",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.nature_staff.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/nature_staff/idle_t",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.nature_staff.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/nature_staff/idle_a",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.nature_staff.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/nature_staff/idle_a",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.nature_sword.titanic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/titanic/outtro1",
+		  "stream": true,
+		  "volume": 1.6
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/titanic/outtro2",
+		  "stream": true,
+		  "volume": 1.6
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/titanic/outtro3",
+		  "stream": true,
+		  "volume": 1.6
+	  }
+	  ]
+	},
+	"weapon.nature_sword.titanic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/titanic/main1",
+		  "stream": false,
+		  "volume": 1.6
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/titanic/main2",
+		  "stream": false,
+		  "volume": 1.6
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/titanic/main3",
+		  "stream": false,
+		  "volume": 1.6
+	  }
+	  ]
+	},
+	"weapon.nature_sword.destructive.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/destructive/outtro1",
+		  "stream": false,
+		  "volume": 1.6
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/destructive/outtro2",
+		  "stream": false,
+		  "volume": 1.6
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/destructive/outtro3",
+		  "stream": false,
+		  "volume": 1.6
+	  }
+	  ]
+	},
+	"weapon.nature_sword.destructive.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/destructive/main1",
+		  "stream": false,
+		  "volume": 1.6
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/destructive/main2",
+		  "stream": false,
+		  "volume": 1.6
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/destructive/main3",
+		  "stream": false,
+		  "volume": 1.6
+	  }
+	  ]
+	},
+	"weapon.nature_sword.apocolyptic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/apocolyptic/outtro1",
+		  "stream": true,
+		  "volume": 1.2
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/apocolyptic/outtro2",
+		  "stream": true,
+		  "volume": 1.2
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/apocolyptic/outtro3",
+		  "stream": true,
+		  "volume": 1.2
+	  }
+	  ]
+	},
+	"weapon.nature_sword.apocolyptic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/apocolyptic/main1",
+		  "stream": true,
+		  "volume": 1.2
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/apocolyptic/main2",
+		  "stream": true,
+		  "volume": 1.2
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/apocolyptic/main3",
+		  "stream": true,
+		  "volume": 1.2
+	  }
+	  ]
+	},
+	"weapon.nature_sword.intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/intro1",
+		  "stream": false,
+		  "volume": 1.2
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/intro2",
+		  "stream": false,
+		  "volume": 1.2
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/intro3",
+		  "stream": false,
+		  "volume": 1.2
+	  }
+	  ]
+	},
+	"weapon.nature_sword.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_d1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_d2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_d3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.nature_sword.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_t1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_t2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_t3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.nature_sword.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_a1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_a2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_a3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.nature_sword.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_a1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_a2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/nature_sword/idle_a3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"poison_bow.apocalyptic.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/poison_bow/apocalyptic/shoot1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/apocalyptic/shoot2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/apocalyptic/shoot3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"poison_bow.apocalyptic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/poison_bow/apocalyptic/impact1",
+		  "stream": true,
+		  "volume": 0.8
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/apocalyptic/impact2",
+		  "stream": true,
+		  "volume": 0.8
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/apocalyptic/impact3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+		]
+	},
+	"poison_bow.apocalyptic.aim": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/poison_bow/apocalyptic/aim1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/apocalyptic/aim2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/apocalyptic/aim3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"poison_bow.titanic.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/poison_bow/titanic/shoot1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/titanic/shoot2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/titanic/shoot3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"poison_bow.titanic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/poison_bow/titanic/impact1",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/titanic/impact2",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/titanic/impact3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+		]
+	},
+	"poison_bow.titanic.aim": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/poison_bow/titanic/aim1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/titanic/aim2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/titanic/aim3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"poison_bow.destructive.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/poison_bow/destructive/shoot1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/destructive/shoot2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/destructive/shoot3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"poison_bow.destructive.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/poison_bow/destructive/impact1",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/destructive/impact2",
+		  "stream": false,
+		  "volume": 0.8
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/destructive/impact3",
+		  "stream": false,
+		  "volume": 0.8
+	  }
+		]
+	},
+	"poison_bow.destructive.aim": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+		{
+		  "name": "sounds/weapons/poison_bow/destructive/aim1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/destructive/aim2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/poison_bow/destructive/aim3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+		]
+	},
+	"weapon.poison_bow.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/poison_bow/idle_d",
+		  "stream": true,
+		  "volume": 0.5
+	  }]
+	},
+	"weapon.poison_bow.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/poison_bow/idle_t",
+		  "stream": true,
+		  "volume": 0.5
+	  }]
+	},
+	"weapon.poison_bow.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/poison_bow/idle_a",
+		  "stream": true,
+		  "volume": 0.5
+	  }]
+	},
+	"weapon.poison_bow.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [{
+		  "name": "sounds/weapons/poison_bow/idle_a",
+		  "stream": true,
+		  "volume": 0.5
+	  }]
+	},
+	"poison_swamp.destructive.puddle": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/poison_swamp/destructive/puddle",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"poison_swamp.destructive.bubble": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/poison_swamp/destructive/bubble",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"poison_swamp.destructive.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/poison_swamp/destructive/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/destructive/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/destructive/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"poison_swamp.apocalyptic.puddle": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/poison_swamp/apocalyptic/puddle",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"poison_swamp.apocalyptic.bubble": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/poison_swamp/apocalyptic/bubble1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/apocalyptic/bubble2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/apocalyptic/bubble3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"poison_swamp.apocalyptic.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/poison_swamp/apocalyptic/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/apocalyptic/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/apocalyptic/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"poison_swamp.titanic.puddle": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/poison_swamp/titanic/puddle",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"poison_swamp.titanic.bubble": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/poison_swamp/titanic/bubble1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/titanic/bubble2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/titanic/bubble3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"poison_swamp.titanic.initiate": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/poison_swamp/titanic/initiate1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/titanic/initiate2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/titanic/initiate3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.poison_swamp.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_d1",
+		  "stream": false,
+		  "volume": 0.9
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_d2",
+		  "stream": false,
+		  "volume": 0.9
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_d3",
+		  "stream": false,
+		  "volume": 0.9
+	  }
+	  ]
+	},
+	"weapon.poison_swamp.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_t1",
+		  "stream": false,
+		  "volume": 0.9
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_t2",
+		  "stream": false,
+		  "volume": 0.9
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_t3",
+		  "stream": false,
+		  "volume": 0.9
+	  }
+	  ]
+	},
+	"weapon.poison_swamp.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_a1",
+		  "stream": false,
+		  "volume": 0.9
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_a2",
+		  "stream": false,
+		  "volume": 0.9
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_a3",
+		  "stream": false,
+		  "volume": 0.9
+	  }
+	  ]
+	},
+	"weapon.poison_swamp.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_a1",
+		  "stream": false,
+		  "volume": 0.9
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_a2",
+		  "stream": false,
+		  "volume": 0.9
+	  },
+	  {
+		  "name": "sounds/weapons/poison_swamp/idle_a3",
+		  "stream": false,
+		  "volume": 0.9
+	  }
+	  ]
+	},
+	"weapon.royal_gauntlets.titanic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/titanic/main1",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/titanic/main2",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/titanic/main3",
+		  "stream": false,
+		  "volume": 1.3
+	  }
+	  ]
+	},
+	"weapon.royal_gauntlets.destructive.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/destructive/main1",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/destructive/main2",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/destructive/main3",
+		  "stream": false,
+		  "volume": 1.3
+	  }
+	  ]
+	},
+	"weapon.royal_gauntlets.apocolyptic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/apocolyptic/main1",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/apocolyptic/main2",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/apocolyptic/main3",
+		  "stream": false,
+		  "volume": 1.3
+	  }
+	  ]
+	},
+	"weapon.royal_gauntlets.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/outtro1",
+		  "stream": true,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/outtro2",
+		  "stream": true,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/outtro3",
+		  "stream": true,
+		  "volume": 1.3
+	  }
+	  ]
+	},
+	"weapon.royal_gauntlets.intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/intro1",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/intro2",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/intro3",
+		  "stream": false,
+		  "volume": 1.3
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/intro4",
+		  "stream": false,
+		  "volume": 1.3
+	  }
+	  ]
+	},
+	"weapon.royal_gauntlets.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_d1",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_d2",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_d3",
+		  "stream": false,
+		  "volume": 0.7
+	  }
+	  ]
+	},
+	"weapon.royal_gauntlets.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_t1",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_t2",
+		  "stream": false,
+		  "volume": 0.7
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_t3",
+		  "stream": false,
+		  "volume": 0.7
+	  }
+	  ]
+	},
+	"weapon.royal_gauntlets.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_a1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_a2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_a3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.royal_gauntlets.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_a1",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_a2",
+		  "stream": false,
+		  "volume": 0.5
+	  },
+	  {
+		  "name": "sounds/weapons/royal_gauntlets/idle_a3",
+		  "stream": false,
+		  "volume": 0.5
+	  }
+	  ]
+	},
+	"royal_spear.destructive.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/destructive/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/destructive/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/destructive/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"royal_spear.destructive.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/destructive/shoot1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/destructive/shoot2",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"royal_spear.destructive.charge": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/destructive/charge1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/destructive/charge2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/destructive/charge3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"royal_spear.titanic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/titanic/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/titanic/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/titanic/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"royal_spear.titanic.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/titanic/shoot1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/titanic/shoot2",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"royal_spear.titanic.charge": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/titanic/charge1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/titanic/charge2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/titanic/charge3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"royal_spear.apocalyptic.impact": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/apocalyptic/impact1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/apocalyptic/impact2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/apocalyptic/impact3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"royal_spear.apocalyptic.shoot": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/apocalyptic/shoot1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/apocalyptic/shoot2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+		{
+		  "name": "sounds/weapons/royal_spear/apocalyptic/shoot3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"royal_spear.apocalyptic.charge": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/apocalyptic/charge1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/apocalyptic/charge2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/apocalyptic/charge3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.royal_spear.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_d1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_d2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_d3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.royal_spear.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_t1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_t2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_t3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.royal_spear.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_a1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_a2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_a3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.royal_spear.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_a1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_a2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/royal_spear/idle_a3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.solar_sun.particle_outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/solar_sun/particle_outtro",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.solar_sun.particle_loop": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/solar_sun/particle_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.solar_sun.particle_intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/solar_sun/particle_intro",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.solar_sun.apocolyptic.portal": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sun/apocolyptic/portal1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/apocolyptic/portal2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/apocolyptic/portal3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sun.apocolyptic.fire": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/solar_sun/apocolyptic/fire",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.solar_sun.apocolyptic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sun/apocolyptic/main1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/apocolyptic/main2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/apocolyptic/main3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sun.titanic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/solar_sun/titanic/outtro",
+		  "stream": false,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.solar_sun.titanic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sun/titanic/main1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/titanic/main2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/titanic/main3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sun.destructive.fire_loop": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [{
+		  "name": "sounds/weapons/solar_sun/destructive/fire_loop",
+		  "stream": true,
+		  "volume": 1.0
+	  }]
+	},
+	"weapon.solar_sun.destructive.blast": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sun/destructive/blast1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/destructive/blast2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/destructive/blast3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sun.attack_intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sun/attack_intro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/attack_intro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/attack_intro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sun.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_d1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_d2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_d3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.solar_sun.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_t1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_t2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_t3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sun.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_a1",
+		  "stream": false,
+		  "volume": 0.4
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_a2",
+		  "stream": false,
+		  "volume": 0.4
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_a3",
+		  "stream": false,
+		  "volume": 0.4
+	  }
+	  ]
+	},
+	"weapon.solar_sun.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_a1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_a2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sun/idle_a3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.solar_sword.titanic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/titanic/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/titanic/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/titanic/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sword.titanic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/titanic/main1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/titanic/main2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/titanic/main3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sword.destructive.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/destructive/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/destructive/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/destructive/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sword.destructive.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/destructive/main1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/destructive/main2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/destructive/main3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sword.apocolyptic.outtro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/apocolyptic/outtro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/apocolyptic/outtro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/apocolyptic/outtro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sword.apocolyptic.main": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/apocolyptic/main1",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/apocolyptic/main2",
+		  "stream": true,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/apocolyptic/main3",
+		  "stream": true,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sword.intro": {
+	  "category": "master",
+	  "max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/intro1",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/intro2",
+		  "stream": false,
+		  "volume": 1.0
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/intro3",
+		  "stream": false,
+		  "volume": 1.0
+	  }
+	  ]
+	},
+	"weapon.solar_sword.destructive.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_d1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_d2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_d3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.solar_sword.titanic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_t1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_t2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_t3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.solar_sword.apocalyptic.idle.world": {
+	  "category": "master",
+		"max_distance": 50.0,
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_a1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_a2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_a3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	},
+	"weapon.solar_sword.apocalyptic.idle": {
+	  "category": "ui",
+	  "sounds": [
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_a1",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_a2",
+		  "stream": false,
+		  "volume": 0.6
+	  },
+	  {
+		  "name": "sounds/weapons/solar_sword/idle_a3",
+		  "stream": false,
+		  "volume": 0.6
+	  }
+	  ]
+	}
+}

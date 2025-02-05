@@ -1,0 +1,55 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.opw.inventory.lvl.ch_hammer",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 6,
+                "visible_bounds_height": 3,
+                "visible_bounds_offset": [
+                    0,
+                    1.5,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "lvl_2",
+                    "pivot": [
+                        0,
+                        0,
+                        -1
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -6,
+                                -1,
+                                0.0
+                            ],
+                            "size": [
+                                12,
+                                2,
+                                0
+                            ],
+                            "uv": {
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        70,
+                                        20
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

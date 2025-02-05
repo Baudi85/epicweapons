@@ -1,0 +1,1 @@
+{"format_version":"1.16.0","minecraft:item":{"description":{"identifier":"opw:f_crystal","category":"Equipment"},"components":{"minecraft:icon":"f_crystal","minecraft:render_offsets":"apple","minecraft:use_animation":"none"}}}

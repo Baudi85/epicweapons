@@ -1,0 +1,63 @@
+{
+    "texture_data": {
+        "opw:dungeon_wall": {
+            "textures": {
+                "path": "textures/blocks/stonebrick"
+            }
+        },
+        "opw:path": {
+            "textures": {
+                "path": "textures/blocks/grass_path_top",
+                "overlay_color": "#EDE3DB"
+            }
+        },
+        "opw:town": {
+            "textures": {
+                "path": "textures/blocks/bedrock",
+                "overlay_color": "#FFA0AA"
+            }
+        },
+        "opw:meadow": {
+            "textures": {
+                "path": "textures/blocks/bedrock",
+                "overlay_color": "#80FF6F"
+            }
+        },
+        "opw:lake": {
+            "textures": {
+                "path": "textures/blocks/bedrock",
+                "overlay_color": "#4561B8"
+            }
+        },
+        "opw:forest": {
+            "textures": {
+                "path": "textures/blocks/bedrock",
+                "overlay_color": "#008A07"
+            }
+        },
+        "opw:thawing": {
+            "textures": {
+                "path": "textures/blocks/bedrock",
+                "overlay_color": "#ABFFF2"
+            }
+        },
+        "opw:swamp": {
+            "textures": {
+                "path": "textures/blocks/bedrock",
+                "overlay_color": "#1C5F34"
+            }
+        },
+        "opw:gorge": {
+            "textures": {
+                "path": "textures/blocks/bedrock",
+                "overlay_color": "#D24C00"
+            }
+        },
+        "opw:ruins": {
+            "textures": {
+                "path": "textures/blocks/bedrock",
+                "overlay_color": "#8D8C4C"
+            }
+        }
+    }
+}

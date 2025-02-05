@@ -1,0 +1,9 @@
+execute @a[x=1980.5,y=90,z=-849.5,r=500,c=1] ~ ~ ~ particle opw:mist 1980.5 90.0 -849.5
+execute @a[x=1900.5,y=74,z=-809.5,r=500,c=1] ~ ~ ~ particle opw:mist 1900.5 74.0 -809.5
+execute @a[x=2000.5,y=77,z=-746.5,r=500,c=1] ~ ~ ~ particle opw:mist 2000.5 77.0 -746.5
+execute @a[x=1900.5,y=83,z=-899.5,r=500,c=1] ~ ~ ~ particle opw:mist 1900.5 83.0 -899.5
+execute @a[x=1987.5,y=75,z=-959.5,r=500,c=1] ~ ~ ~ particle opw:mist 1987.5 75.0 -959.5
+execute @a[x=2060.5,y=88,z=-884.5,r=500,c=1] ~ ~ ~ particle opw:mist 2060.5 88.0 -884.5
+execute @a[x=2073.5,y=85,z=-822.5,r=500,c=1] ~ ~ ~ particle opw:mist 2073.5 85.0 -822.5
+execute @a[x=2180.5,y=75,z=-899.5,r=500,c=1] ~ ~ ~ particle opw:mist 2180.5 75.0 -899.5
+execute @a[x=2176.5,y=75,z=-965.5,r=500,c=1] ~ ~ ~ particle opw:mist 2176.5 75.0 -965.5

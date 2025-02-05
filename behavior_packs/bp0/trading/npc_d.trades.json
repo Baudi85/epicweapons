@@ -1,0 +1,42 @@
+{
+    "tiers": [
+        {
+            "total_exp_required": 0,
+            "groups": [
+                {
+                    "num_to_select": 1,
+                    "trades": [
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "quantity": 3,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond_pickaxe",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "efficiency",
+                                                    "level": 3
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

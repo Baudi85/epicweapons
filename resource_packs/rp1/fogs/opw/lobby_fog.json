@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:fog_settings":{"description":{"identifier":"opw:lobby_fog"},"distance":{"air":{"fog_start":4.0,"fog_end":20.0,"fog_color":"#FFFFFF","render_distance_type":"fixed"},"weather":{"fog_start":4.0,"fog_end":20.0,"fog_color":"#FFFFFF","render_distance_type":"fixed"}}}}

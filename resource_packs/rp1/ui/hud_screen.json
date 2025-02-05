@@ -1,0 +1,55 @@
+{
+  "hud_actionbar_text": {
+    "alpha": "@hud.anim_actionbar_text_background_alpha_in"
+  },
+  "hud_actionbar_text/actionbar_message": {
+    "alpha": "@hud.anim_actionbar_text_alpha_in",
+    "text_alignment": "center"
+  },
+  "anim_actionbar_text_alpha_in": {
+    "anim_type": "alpha",
+    "easing": "linear",
+    "duration": 0.0,
+    "from": 0,
+    "to": 1,
+    "next": "@hud.anim_actionbar_text_alpha_stay"
+  },
+  "anim_actionbar_text_alpha_stay": {
+    "anim_type": "wait",
+    "duration": "$title_stay_time",
+    "next": "@hud.anim_actionbar_text_alpha_out"
+  },
+  "anim_actionbar_text_alpha_out": {
+    "anim_type": "alpha",
+    "easing": "linear",
+    "from": 1,
+    "to": 0,
+    "duration": 0.0,
+    "destroy_at_end": "hud_actionbar_text"
+  },
+  "anim_actionbar_text_background_alpha_in": {
+    "anim_type": "alpha",
+    "easing": "linear",
+    "duration": 0.0,
+    "from": 0,
+    "to": 0.6,
+    "next": "@hud.anim_actionbar_text_background_alpha_stay"
+  },
+  "anim_actionbar_text_background_alpha_stay": {
+    "anim_type": "wait",
+    "duration": "$title_stay_time",
+    "next": "@hud.anim_actionbar_text_background_alpha_out"
+  },
+  "anim_actionbar_text_background_alpha_out": {
+    "anim_type": "alpha",
+    "easing": "linear",
+    "from": 0.6,
+    "to": 0,
+    "duration": 0.0,
+    "destroy_at_end": "hud_actionbar_text_background"
+  },
+  "hud_title_text/title_frame/title": {
+    "font_size": "extra_large",
+    "font_scale_factor": 0.8
+  }
+}

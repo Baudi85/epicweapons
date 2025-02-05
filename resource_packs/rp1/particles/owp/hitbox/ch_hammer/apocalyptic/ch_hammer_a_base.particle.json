@@ -1,0 +1,64 @@
+{
+	"format_version": "1.10.0",
+	"particle_effect": {
+		"description": {
+			"identifier": "opw:ch_hammer_a_base",
+			"basic_render_parameters": {
+				"material": "particles_blend",
+				"texture": "textures/opw/particles/weapons/chaotic"
+			}
+		},
+		"curves": {
+			"variable.size": {
+				"type": "linear",
+				"input": "variable.particle_age",
+				"horizontal_range": "variable.particle_lifetime",
+				"nodes": [0, 1, 1, 1, 1, 0]
+			},
+			"variable.height": {
+				"type": "catmull_rom",
+				"input": "variable.particle_age",
+				"horizontal_range": "variable.particle_lifetime",
+				"nodes": [0, 0, 1, 1, 1, 1, 1, 0, 0]
+			}
+		},
+		"components": {
+			"minecraft:emitter_rate_instant": {
+				"num_particles": 45
+			},
+			"minecraft:emitter_lifetime_once": {
+				"active_time": 1
+			},
+			"minecraft:emitter_shape_disc": {
+				"radius": 2,
+				"surface_only": true,
+				"direction": "outwards"
+			},
+			"minecraft:particle_lifetime_expression": {
+				"max_lifetime": "math.random(2,4)"
+			},
+			"minecraft:particle_motion_parametric": {
+				"relative_position": ["math.cos(v.particle_random_1 * 360) * 4", "v.height * v.size * 0.2", "math.sin(v.particle_random_1 * 360) * 4"]
+			},
+			"minecraft:particle_appearance_billboard": {
+				"size": ["0.9 * v.size * math.clamp(v.particle_random_1,0.6,1)", "1.4 * v.size * math.clamp(v.particle_random_1,0.6,1)"],
+				"facing_camera_mode": "rotate_y",
+				"uv": {
+					"texture_width": 256,
+					"texture_height": 256,
+					"uv": [7, 35],
+					"uv_size": [31, 31]
+				}
+			},
+			"minecraft:particle_appearance_tinting": {
+				"color": {
+					"interpolant": "v.particle_random_3",
+					"gradient": {
+						"0.0": "#ffffffff",
+						"1.0": "#FFF2D1FF"
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+execute @s[tag=!inventory,scores={cooldown=0,weapon_1=2}] ~ ~ ~ execute @s[rxm=-90,rx=-72] ~ ~1.5 ~ particle opw:s_sun_t_base ^ ^-1.4815325108927067 ^0.23465169756034637
+execute @s[tag=!inventory,scores={cooldown=0,weapon_1=2}] ~ ~ ~ execute @s[rxm=-72,rx=-54] ~ ~1.5 ~ particle opw:s_sun_t_base ^ ^-1.3365097862825517 ^0.6809857496093203
+execute @s[tag=!inventory,scores={cooldown=0,weapon_1=2}] ~ ~ ~ execute @s[rxm=-54,rx=-36] ~ ~1.5 ~ particle opw:s_sun_t_base ^ ^-1.0606601717798212 ^1.0606601717798214
+execute @s[tag=!inventory,scores={cooldown=0,weapon_1=2}] ~ ~ ~ execute @s[rxm=-36,rx=-18] ~ ~1.5 ~ particle opw:s_sun_t_base ^ ^-0.6809857496093201 ^1.336509786282552
+execute @s[tag=!inventory,scores={cooldown=0,weapon_1=2}] ~ ~ ~ execute @s[rxm=-18,rx=0] ~ ~1.5 ~ particle opw:s_sun_t_base ^ ^-0.23465169756034632 ^1.4815325108927067
+execute @s[tag=!inventory,scores={cooldown=0,weapon_1=2}] ~ ~ ~ execute @s[rxm=0,rx=18] ~ ~1.5 ~ particle opw:s_sun_t_base ^ ^0.23465169756034632 ^1.4815325108927067
+execute @s[tag=!inventory,scores={cooldown=0,weapon_1=2}] ~ ~ ~ execute @s[rxm=18,rx=36] ~ ~1.5 ~ particle opw:s_sun_t_base ^ ^0.6809857496093201 ^1.336509786282552
+execute @s[tag=!inventory,scores={cooldown=0,weapon_1=2}] ~ ~ ~ execute @s[rxm=36,rx=54] ~ ~1.5 ~ particle opw:s_sun_t_base ^ ^1.0606601717798212 ^1.0606601717798214
+execute @s[tag=!inventory,scores={cooldown=0,weapon_1=2}] ~ ~ ~ execute @s[rxm=54,rx=72] ~ ~1.5 ~ particle opw:s_sun_t_base ^ ^1.3365097862825517 ^0.6809857496093203
+execute @s[tag=!inventory,scores={cooldown=0,weapon_1=2}] ~ ~ ~ execute @s[rxm=72,rx=90] ~ ~1.5 ~ particle opw:s_sun_t_base ^ ^1.4815325108927067 ^0.23465169756034637

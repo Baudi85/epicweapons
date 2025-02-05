@@ -1,0 +1,71 @@
+{
+	"format_version": "1.10.0",
+	"particle_effect": {
+		"description": {
+			"identifier": "opw:dk_knights_a_burst",
+			"basic_render_parameters": {
+				"material": "particles_blend",
+				"texture": "textures/opw/particles/weapons/death"
+			}
+		},
+		"curves": {
+			"variable.step": {
+				"type": "linear",
+				"input": "variable.particle_age",
+				"horizontal_range": "variable.particle_lifetime",
+				"nodes": [0, 0, 0, 0, 0, 0, 0, 1, 2.01, 2.01, 2.01, 2.01, 2, 2.01]
+			},
+			"variable.size": {
+				"type": "linear",
+				"input": "variable.particle_age",
+				"horizontal_range": "variable.particle_lifetime",
+				"nodes": [1, 1, 1, 1, 1, 1.5, 1.5, 1.5, 1.5]
+			},
+			"variable.opacity": {
+				"type": "linear",
+				"input": "variable.particle_age",
+				"horizontal_range": "variable.particle_lifetime",
+				"nodes": [0, 1, 1, 1, 1, 1, 0.5, 0.25, 0]
+			}
+		},
+		"components": {
+			"minecraft:emitter_rate_steady": {
+				"spawn_rate": 80,
+				"max_particles": 200
+			},
+			"minecraft:emitter_lifetime_once": {
+				"active_time": 2
+			},
+			"minecraft:emitter_shape_disc": {
+				"radius": 3.5,
+				"direction": [0, 1, 0]
+			},
+			"minecraft:particle_lifetime_expression": {
+				"max_lifetime": "math.random(1.0,1.5)"
+			},
+			"minecraft:particle_initial_speed": "math.random(3, 5)",
+			"minecraft:particle_motion_dynamic": {
+				"linear_drag_coefficient": 1.25
+			},
+			"minecraft:particle_appearance_billboard": {
+				"size": ["0.1 * math.clamp(v.particle_random_3,0.75,1) * v.size", "0.1 * (16/10) * math.clamp(v.particle_random_3,0.75,1) * v.size"],
+				"facing_camera_mode": "rotate_xyz",
+				"uv": {
+					"texture_width": 320,
+					"texture_height": 320,
+					"flipbook": {
+						"base_UV": [105, 2],
+						"size_UV": [10, 16],
+						"step_UV": [0, 16],
+						"frames_per_second": 12,
+						"max_frame": 8,
+						"loop": true
+					}
+				}
+			},
+			"minecraft:particle_appearance_tinting": {
+				"color": [1, "Math.clamp(v.particle_random_4, 0, 0.4)", "Math.clamp(v.particle_random_4, 0, 0.4)", "Math.clamp(variable.opacity * 0.4, 0, 1)"]
+			}
+		}
+	}
+}

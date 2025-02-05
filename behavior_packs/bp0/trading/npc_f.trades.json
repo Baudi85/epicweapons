@@ -1,0 +1,569 @@
+{
+    "tiers": [
+        {
+            "total_exp_required": 0,
+            "groups": [
+                {
+                    "num_to_select": 0,
+                    "trades": [
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:planks",
+                                    "quantity": 32,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:planks",
+                                    "quantity": 2,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:wooden_sword",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "sharpness",
+                                                    "level": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:stick",
+                                    "quantity": 3,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:bow",
+                                    "quantity": 1
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "total_exp_required": 0,
+            "groups": [
+                {
+                    "num_to_select": 0,
+                    "trades": [
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:cobblestone",
+                                    "quantity": 20,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:cobblestone",
+                                    "quantity": 2,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:stone_sword",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "sharpness",
+                                                    "level": 2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:stick",
+                                    "quantity": 3,
+                                    "price_multiplier": 1.0
+                                },
+                                {
+                                    "item": "minecraft:cobblestone",
+                                    "quantity": 1,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:bow",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "power",
+                                                    "level": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "total_exp_required": 0,
+            "groups": [
+                {
+                    "num_to_select": 0,
+                    "trades": [
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:iron_ingot",
+                                    "quantity": 10,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:iron_ingot",
+                                    "quantity": 2,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:iron_sword",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "sharpness",
+                                                    "level": 3
+                                                },
+                                                {
+                                                    "id": "unbreaking",
+                                                    "level": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:stick",
+                                    "quantity": 3,
+                                    "price_multiplier": 1.0
+                                },
+                                {
+                                    "item": "minecraft:iron_ingot",
+                                    "quantity": 1,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:bow",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "power",
+                                                    "level": 2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "total_exp_required": 0,
+            "groups": [
+                {
+                    "num_to_select": 0,
+                    "trades": [
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:gold_ingot",
+                                    "quantity": 5,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:gold_ingot",
+                                    "quantity": 2,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:golden_sword",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "sharpness",
+                                                    "level": 4
+                                                },
+                                                {
+                                                    "id": "unbreaking",
+                                                    "level": 2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:stick",
+                                    "quantity": 3,
+                                    "price_multiplier": 1.0
+                                },
+                                {
+                                    "item": "minecraft:gold_ingot",
+                                    "quantity": 1,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:bow",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "power",
+                                                    "level": 3
+                                                },
+                                                {
+                                                    "id": "unbreaking",
+                                                    "level": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "total_exp_required": 0,
+            "groups": [
+                {
+                    "num_to_select": 0,
+                    "trades": [
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "quantity": 1,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "quantity": 2,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond_sword",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "sharpness",
+                                                    "level": 5
+                                                },
+                                                {
+                                                    "id": "unbreaking",
+                                                    "level": 3
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:stick",
+                                    "quantity": 3,
+                                    "price_multiplier": 1.0
+                                },
+                                {
+                                    "item": "minecraft:diamond",
+                                    "quantity": 1,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:bow",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "power",
+                                                    "level": 5
+                                                },
+                                                {
+                                                    "id": "unbreaking",
+                                                    "level": 3
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "total_exp_required": 0,
+            "groups": [
+                {
+                    "num_to_select": 0,
+                    "trades": [
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:netherite_ingot",
+                                    "quantity": 1,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "quantity": 2,
+                                    "price_multiplier": 1.0
+                                },
+                                {
+                                    "item": "minecraft:netherite_ingot",
+                                    "quantity": 1,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:netherite_sword",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "sharpness",
+                                                    "level": 5
+                                                },
+                                                {
+                                                    "id": "fire_aspect",
+                                                    "level": 2
+                                                },
+                                                {
+                                                    "id": "unbreaking",
+                                                    "level": 3
+                                                },
+                                                {
+                                                    "id": "mending",
+                                                    "level": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:stick",
+                                    "quantity": 3,
+                                    "price_multiplier": 1.0
+                                },
+                                {
+                                    "item": "minecraft:netherite_ingot",
+                                    "quantity": 1,
+                                    "price_multiplier": 1.0
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:bow",
+                                    "quantity": 1,
+                                    "functions": [
+                                        {
+                                            "function": "specific_enchants",
+                                            "enchants": [
+                                                {
+                                                    "id": "power",
+                                                    "level": 5
+                                                },
+                                                {
+                                                    "id": "punch",
+                                                    "level": 2
+                                                },
+                                                {
+                                                    "id": "flame",
+                                                    "level": 2
+                                                },
+                                                {
+                                                    "id": "unbreaking",
+                                                    "level": 3
+                                                },
+                                                {
+                                                    "id": "mending",
+                                                    "level": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trader_exp": 50,
+                            "reward_exp": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

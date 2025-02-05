@@ -1,0 +1,32 @@
+{
+    "opw:dungeon_wall": {
+        "textures": "opw:dungeon_wall"
+    },
+    "opw:path": {
+        "textures": "opw:path"
+    },
+    "opw:town": {
+        "textures": "opw:town"
+    },
+    "opw:meadow": {
+        "textures": "opw:meadow"
+    },
+    "opw:lake": {
+        "textures": "opw:lake"
+    },
+    "opw:forest": {
+        "textures": "opw:forest"
+    },
+    "opw:thawing": {
+        "textures": "opw:thawing"
+    },
+    "opw:swamp": {
+        "textures": "opw:swamp"
+    },
+    "opw:gorge": {
+        "textures": "opw:gorge"
+    },
+    "opw:ruins": {
+        "textures": "opw:ruins"
+    }
+}

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.minecraft.cat.init.pet":{"initial_state":"default","states":{"default":{"on_entry":["/tag @s add pet"]}}}}}

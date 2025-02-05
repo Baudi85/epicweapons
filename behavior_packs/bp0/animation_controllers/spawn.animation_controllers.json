@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.opw.monster.init.change":{"initial_state":"default","states":{"default":{"on_entry":["/function opw/monster/transform"]}}},"controller.animation.opw.water_monster.init.change":{"initial_state":"default","states":{"default":{"on_entry":["/function opw/monster/transform"]}}}}}

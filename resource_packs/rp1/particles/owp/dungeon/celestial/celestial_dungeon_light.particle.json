@@ -1,0 +1,68 @@
+{
+	"format_version": "1.10.0",
+	"particle_effect": {
+		"description": {
+			"identifier": "opw:celestial_dungeon_light",
+			"basic_render_parameters": {
+				"material": "particles_blend",
+				"texture": "textures/opw/particles/weapons/celestial"
+			}
+		},
+		"curves": {
+			"variable.opacity": {
+				"type": "linear",
+				"input": "variable.particle_age",
+				"horizontal_range": "variable.particle_lifetime",
+				"nodes": [0.24, 1, 1, 1, 0.61, 0.3, 0]
+			},
+			"variable.size": {
+				"type": "catmull_rom",
+				"input": "variable.particle_age",
+				"horizontal_range": "variable.particle_lifetime",
+				"nodes": [0, 0.04, 1, 0]
+			}
+		},
+		"components": {
+			"minecraft:emitter_rate_steady": {
+				"spawn_rate": 12,
+				"max_particles": 100
+			},
+			"minecraft:emitter_lifetime_once": {
+				"active_time": 15
+			},
+			"minecraft:emitter_shape_point": {
+				"offset": ["v.particle_random_1 > 0.5 ? -1.5 : 1.5", 0.2, "v.particle_random_2 > 0.5 ? -1.5 : 1.5"],
+				"direction": [0, 1, 0]
+			},
+			"minecraft:particle_lifetime_expression": {
+				"max_lifetime": 1.5
+			},
+			"minecraft:particle_initial_spin": {
+				"rotation": 180
+			},
+			"minecraft:particle_initial_speed": 12,
+			"minecraft:particle_motion_dynamic": {
+				"linear_drag_coefficient": 1.5
+			},
+			"minecraft:particle_appearance_billboard": {
+				"size": ["0.4 * math.clamp(v.particle_random_4, 0.7,1)", "0.4 * (115/26)"],
+				"facing_camera_mode": "rotate_y",
+				"uv": {
+					"texture_width": 1024,
+					"texture_height": 1024,
+					"flipbook": {
+						"base_UV": [0, 4],
+						"size_UV": [26, 115],
+						"step_UV": [0, 120],
+						"frames_per_second": 16,
+						"max_frame": 8,
+						"loop": true
+					}
+				}
+			},
+			"minecraft:particle_appearance_tinting": {
+				"color": [1, 1, 1, "Math.clamp(variable.opacity, 0, 1)"]
+			}
+		}
+	}
+}

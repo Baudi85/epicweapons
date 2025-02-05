@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.opw.bog.trigger.xp":{"initial_state":"default","states":{"default":{"transitions":[{"triggered":"!q.is_alive"}],"on_exit":["/execute @s[tag=!dead] ~ ~ ~ execute @e[family=hitbox,c=1] ~ ~ ~ function opw/enemies/locate_killer","/tag @s add dead"]},"triggered":{"transitions":[{"default":"1"}]}}}}}

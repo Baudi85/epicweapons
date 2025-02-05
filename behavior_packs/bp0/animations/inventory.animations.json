@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.opw.inventory.tick.teleport":{"loop":true,"animation_length":0.04,"timeline":{"0.0":"/tp @s @p[tag=inventory]"}},"animation.opw.inventory.tick.update":{"loop":true,"animation_length":0.5,"timeline":{"0.1":"/function opw/inventory/update"}}}}

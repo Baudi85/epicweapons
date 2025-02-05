@@ -1,0 +1,15 @@
+scoreboard players random @s chance 1 2
+execute @s[type=opw:munin,scores={chance=1}] ~ ~ ~ function opw/anims/munin/talk1
+execute @s[type=opw:munin,scores={chance=2}] ~ ~ ~ function opw/anims/munin/talk2
+execute @s[type=opw:npc_a,scores={chance=1}] ~ ~ ~ function opw/anims/npc_a/talk1
+execute @s[type=opw:npc_a,scores={chance=2}] ~ ~ ~ function opw/anims/npc_a/talk2
+execute @s[type=opw:npc_b,scores={chance=1}] ~ ~ ~ function opw/anims/npc_b/talk1
+execute @s[type=opw:npc_b,scores={chance=2}] ~ ~ ~ function opw/anims/npc_b/talk2
+execute @s[type=opw:npc_c,scores={chance=1}] ~ ~ ~ function opw/anims/npc_c/talk1
+execute @s[type=opw:npc_c,scores={chance=2}] ~ ~ ~ function opw/anims/npc_c/talk2
+execute @s[type=opw:npc_d,scores={chance=1}] ~ ~ ~ function opw/anims/npc_d/talk1
+execute @s[type=opw:npc_d,scores={chance=2}] ~ ~ ~ function opw/anims/npc_d/talk2
+execute @s[type=opw:npc_e,scores={chance=1}] ~ ~ ~ function opw/anims/npc_e/talk1
+execute @s[type=opw:npc_e,scores={chance=2}] ~ ~ ~ function opw/anims/npc_e/talk2
+execute @s[type=opw:npc_f,scores={chance=1}] ~ ~ ~ function opw/anims/npc_f/talk1
+execute @s[type=opw:npc_f,scores={chance=2}] ~ ~ ~ function opw/anims/npc_f/talk2

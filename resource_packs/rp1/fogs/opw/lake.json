@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:fog_settings":{"description":{"identifier":"opw:lake"},"distance":{"air":{"fog_start":50.0,"fog_end":400.0,"fog_color":"#7AFFEA","render_distance_type":"fixed"},"weather":{"fog_start":50.0,"fog_end":400.0,"fog_color":"#7AFFEA","render_distance_type":"fixed"}}}}

@@ -1,0 +1,39 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "obsidian": {
+    "isotropic": false,
+    "textures": "obsidian",
+    "brightness_gamma": 2.00,
+    "sound": "stone"
+  },
+  "crying_obsidian": {
+    "isotropic": false,
+    "textures": "crying_obsidian",
+    "brightness_gamma": 2.00,
+    "sound": "stone"
+  },
+   "dirt" : {
+      "isotropic" : false,
+      "sound" : "gravel",
+      "textures" : "dirt"
+   },
+   "hardened_clay" : {
+      "isotropic" : false,
+      "sound" : "stone",
+      "textures" : "hardened_clay"
+   },
+   "glowstone" : {
+      "isotropic" : false,
+      "sound" : "glass",
+      "textures" : "glowstone"
+   },
+  "stained_hardened_clay": {
+    "isotropic": false,
+    "textures": "stained_clay",
+    "sound": "stone"
+  }
+}
